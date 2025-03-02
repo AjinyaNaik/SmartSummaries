@@ -1,10 +1,13 @@
 import whisper
+import IPython.display
 from IPython.display import Audio
+import imageio_ffmpeg as ffmpeg
 
 model= whisper.load_model("base")
 print(model.device)
 
-Audio("matrix.mp3")
+#Audio("matrix.mp3")
+ffmpeg.get_ffmpeg_version()
 
 # For matrix audio file
 
