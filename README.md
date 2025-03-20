@@ -1,12 +1,12 @@
 # This repository is for my internship for Medical Informatics Engineering 
 
-Smart Summaries - AI-Powered Medical Documentation
+# Smart Summaries - AI-Powered Medical Documentation
 
-Overview
+## Overview
 
 In the fast-paced medical field, physicians often struggle to keep up with documentation due to time constraints. Smart Summaries is an AI-powered tool designed to simplify how doctors capture and review patient interactions. By leveraging speech-to-text technology, optical character recognition (OCR), and predictive analytics, this project aims to automate routine documentation, ensuring that critical details are accurately recorded while reducing the administrative burden on healthcare professionals.
 
-Features
+## Features
 
 Speech-to-Text Summarization: Automatically transcribes and organizes patient-physician conversations, capturing essential details such as symptoms, diagnoses, treatments, and follow-up plans.
 
